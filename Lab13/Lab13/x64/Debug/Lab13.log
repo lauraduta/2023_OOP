@@ -1,0 +1,10 @@
+﻿  CustomException.cpp
+  DiamondError.cpp
+C:\Users\stud\Desktop\lab\DiamondError.cpp(24,8): error C2385: ambiguous access of 'Show'
+C:\Users\stud\Desktop\lab\DiamondError.cpp(24,8): message : could be the 'Show' in base 'A'
+C:\Users\stud\Desktop\lab\DiamondError.cpp(24,8): message : or could be the 'Show' in base 'A'
+  DiamondSolved.cpp
+  SerializeDeserialize.cpp
+  TryCatchEx.cpp
+  VirtualM.cpp
+  Generating Code...
